@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arrays", "Arrays\Arrays.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shift", "Shift\Shift.vcxproj", "{BA5917B9-7187-4C43-A5F3-422E34574CBA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Binary", "Binary\Binary.vcxproj", "{EC265659-E19B-4DEC-8730-DB487EBE48EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{BA5917B9-7187-4C43-A5F3-422E34574CBA}.Release|x64.Build.0 = Release|x64
 		{BA5917B9-7187-4C43-A5F3-422E34574CBA}.Release|x86.ActiveCfg = Release|Win32
 		{BA5917B9-7187-4C43-A5F3-422E34574CBA}.Release|x86.Build.0 = Release|Win32
+		{EC265659-E19B-4DEC-8730-DB487EBE48EC}.Debug|x64.ActiveCfg = Debug|x64
+		{EC265659-E19B-4DEC-8730-DB487EBE48EC}.Debug|x64.Build.0 = Debug|x64
+		{EC265659-E19B-4DEC-8730-DB487EBE48EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC265659-E19B-4DEC-8730-DB487EBE48EC}.Debug|x86.Build.0 = Debug|Win32
+		{EC265659-E19B-4DEC-8730-DB487EBE48EC}.Release|x64.ActiveCfg = Release|x64
+		{EC265659-E19B-4DEC-8730-DB487EBE48EC}.Release|x64.Build.0 = Release|x64
+		{EC265659-E19B-4DEC-8730-DB487EBE48EC}.Release|x86.ActiveCfg = Release|Win32
+		{EC265659-E19B-4DEC-8730-DB487EBE48EC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
