@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 void main() {
@@ -30,7 +30,7 @@ void main() {
 			if (arr[i] == arr[j]) counter++;
 
 		}
-		//if (counter)cout << "Çíà÷åíèå " << arr[i] << " ïîâòîðÿåòñÿ " << counter << " ðàç" << endl;
-		if (counter) printf("Çíà÷åíèå %i ïîâòîðÿåòñÿ %i ðàç \n", arr[i], counter);
+		//if (counter)cout << "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ " << arr[i] << " Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€ÑÐµÑ‚ÑÑ " << counter << " Ñ€Ð°Ð·" << endl;
+		if (counter) printf("Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ %i Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€ÑÐµÑ‚ÑÑ %i Ñ€Ð°Ð· \n", arr[i], counter);
 	}
 }
